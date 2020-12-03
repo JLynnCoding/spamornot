@@ -1,0 +1,12 @@
+Feature,Mean,Standard Deviation
+pic,0.71,0.45
+user #:len,0.17,0.22
+full words,1.48,1.08
+full #:len,0.04,0.14
+full=user,0.04,0.19
+desc len,23.41,38.57
+URL,0.11,0.32
+private,0.37,0.48
+posts,103.24,377.76
+followers,79149.91,842281.8
+follows,555.09,1022.88
